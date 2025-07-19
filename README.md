@@ -9,4 +9,5 @@ Insights derived can help identify regions that require policy focus to improve 
 
 ### Dashboard Visual:
 - <a href="https://github.com/analytixflow/data-viz-with-tableau/blob/main/Snapshot_of_Project.jpg">Dashboard</a>
-- ![Uploading Snapshot_of_Project.jpg…]()
+- ![Snapshot_of_Project](https://github.com/user-attachments/assets/f508713f-e519-4978-ac87-109fc8af36b6)
+
