@@ -6,3 +6,7 @@ Insights derived can help identify regions that require policy focus to improve 
 
 ### Dataset used:
 - <a href="https://github.com/analytixflow/data-viz-with-tableau/blob/main/world%20happiness%20report_data%20set.csv">DataSet</a>
+
+### Dashboard Visual:
+- <a href="https://github.com/analytixflow/data-viz-with-tableau/blob/main/Snapshot_of_Project.jpg">Dashboard</a>
+![Uploading Snapshot_of_Project.jpg…]()
